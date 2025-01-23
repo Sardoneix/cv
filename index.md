@@ -1,5 +1,3 @@
-# Sandro TEIXEIRA
-#### Développeur & Futur Formateur
 
 | Contact | Liens |
 |---------|-------|
