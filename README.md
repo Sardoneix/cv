@@ -1,6 +1,6 @@
 # CV Sandro TEIXEIRA
 
-Ce dépôt contient mon CV au format Markdown.
+[Voir mon CV](https://sardoneix.github.io/cv/)
 
 ## 🎯 À propos
 
@@ -8,12 +8,6 @@ Expert en développement 3D et multimédia avec plus de 15 ans d'expérience, je
 - Le développement Unity 3D
 - La réalité augmentée
 - Les dispositifs interactifs
-
-## 📄 Contenu
-
-- `cv.md` : Mon CV complet au format Markdown
-- Facilement lisible directement sur GitHub
-- Compatible avec les lecteurs Markdown
 
 ## 📬 Contact
 
