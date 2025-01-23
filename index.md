@@ -1,19 +1,11 @@
 # Sandro TEIXEIRA
 #### Développeur & Futur Formateur
 
-<div style="display: flex; justify-content: space-between;">
-
-**Contact**
-- 📍 Marmande, France
-- 📱 06 65 66 15 75
-- 📧 contact@sandroteixeira.com
-
-**Liens**
-- 💼 [Malt](https://www.malt.fr/profile/sandroteixeira)
-- 🐱 [LinkedIn](https://www.linkedin.com/in/sandro-teixeira-91967721/)
-- 🌐 [Portfolio/Blog](https://sandroteixeira.com)
-
-</div>
+| Contact | Liens |
+|---------|-------|
+| 📍 Marmande, France | 💼 [Malt](https://www.malt.fr/profile/sandroteixeira) |
+| 📱 06 65 66 15 75 | 🐱 [LinkedIn](https://www.linkedin.com/in/sandro-teixeira-91967721/) |
+| 📧 contact@sandroteixeira.com | 🌐 [Portfolio](https://sandroteixeira.com) |
 
 ---
 
