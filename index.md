@@ -1,4 +1,3 @@
-
 | Contact | Liens |
 |---------|-------|
 | 📍 Marmande, France | 💼 [Malt](https://www.malt.fr/profile/sandroteixeira) |
@@ -45,9 +44,9 @@ Expert en développement 3D et multimédia avec plus de 15 ans d'expérience, je
 <h3 style="color: #275369;">Expertise Principale</h3>
 
 - Unity 3D : développement avancé et optimisation
-- Conception et développement de dispositifs interactifs 3D
-- Réalité Augmentée et Réalité Virtuelle
-- Intégration de périphériques et capteurs
+- Développement 3D temps réel et applications interactives
+- Backend : Firebase, Node.js
+- Analyse et conception de cahiers des charges
 
 <h3 style="color: #275369;">Veille Technologique Active</h3>
 
