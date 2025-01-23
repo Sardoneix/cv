@@ -1,4 +1,4 @@
-# [Sandro TEIXEIRA]
+# Sandro TEIXEIRA
 #### Développeur & Futur Formateur
 
 <div style="display: flex; justify-content: space-between;">
